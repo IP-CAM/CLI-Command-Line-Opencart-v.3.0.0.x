@@ -1,130 +1,130 @@
 {
 	"latest": {
 		"checksum": "67266e0538a344d2310504746675249de6c6f6f3",
-		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/opencart-3.0.0.0_a1.zip"
+		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/3.0.0.0_a1.zip"
 	},
 	"3.0.0.0_a1": {
 		"checksum": "67266e0538a344d2310504746675249de6c6f6f3",
-		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/opencart-3.0.0.0_a1.zip"
+		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/3.0.0.0_a1.zip"
 	},
 	"2.3.0.2": {
 		"checksum": "5aca215043fd361c3ec56a21dab7b61e9efa11fc",
-		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/opencart-2.3.0.2.zip"
+		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/2.3.0.2.zip"
 	},
 	"2.3.0.1": {
 		"checksum": "532b6a51f76ff9a467627261bbb1cbd917c2496b",
-		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/opencart-2.3.0.1.zip"
+		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/2.3.0.1.zip"
 	},
 	"2.3.0.0_b1": {
 		"checksum": "8a31be0ad8de040d009cffb297fe559f81cfe985",
-		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/opencart-2.3.0.0_b1.zip"
+		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/2.3.0.0_b1.zip"
 	},
 	"2.3.0.0": {
 		"checksum": "167a36ffceef4bcae5140368ec7a9d6c792526a4",
-		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/opencart-2.3.0.0.zip"
+		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/2.3.0.0.zip"
 	},
 	"2.2.0.0_b1": {
 		"checksum": "8bcae16333c37c10a84e0febbb3a9c31038ecf33",
-		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/opencart-2.2.0.0_b1.zip"
+		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/2.2.0.0_b1.zip"
 	},
 	"2.2.0.0_a1": {
 		"checksum": "dda6765b0e2ffb3e64329f0820bc2a659e8c960a",
-		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/opencart-2.2.0.0_a1.zip"
+		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/2.2.0.0_a1.zip"
 	},
 	"2.2.0.0": {
 		"checksum": "2b0bdaa13453d515bc61d03ca6b4f1aa5a45f8ef",
-		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/opencart-2.2.0.0.zip"
+		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/2.2.0.0.zip"
 	},
 	"2.1.0.2": {
 		"checksum": "5f402050b1c8c7eb48215f4ff426befc0a10fbe0",
-		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/opencart-2.1.0.2.zip"
+		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/2.1.0.2.zip"
 	},
 	"2.1.0.1": {
 		"checksum": "b572651f3f5df5b7f4a6e2fa1cd03224a42e70c1",
-		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/opencart-2.1.0.1.zip"
+		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/2.1.0.1.zip"
 	},
 	"2.1.0.0_rc1": {
 		"checksum": "7b67353b80ed51d5a7d418de76581807b05c54e6",
-		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/opencart-2.1.0.0_rc1.zip"
+		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/2.1.0.0_rc1.zip"
 	},
 	"2.1.0.0": {
 		"checksum": "6399e2bbdc1d0fa07d6f57b914051b0ba6d58f2d",
-		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/opencart-2.1.0.0.zip"
+		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/2.1.0.0.zip"
 	},
 	"2.0.3.1": {
 		"checksum": "2808a52b8002d497b24f181721343e307a015b4b",
-		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/opencart-2.0.3.1.zip"
+		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/2.0.3.1.zip"
 	},
 	"2.0.3.0": {
 		"checksum": "293ac13448f68de31aa4d402ad91737c009bae42",
-		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/opencart-2.0.3.0.zip"
+		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/2.0.3.0.zip"
 	},
 	"2.0.2.0": {
 		"checksum": "35a9dcd68f7d550180c68ade387acb3dbdbc9ba5",
-		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/opencart-2.0.2.0.zip"
+		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/2.0.2.0.zip"
 	},
 	"2.0.1.1": {
 		"checksum": "bd9b7ff1467d978f0cccd07b555f4429010d217c",
-		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/opencart-2.0.1.1.zip"
+		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/2.0.1.1.zip"
 	},
 	"2.0.1.0": {
 		"checksum": "7df3f7748b82104461a52f95f01f592394135db9",
-		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/opencart-2.0.1.0.zip"
+		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/2.0.1.0.zip"
 	},
 	"2.0.0.0b3": {
 		"checksum": "507655f109261934daad4622db8430d85732f5a0",
-		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/opencart-2.0.0.0b3.zip"
+		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/2.0.0.0b3.zip"
 	},
 	"2.0.0.0b2": {
 		"checksum": "76fbfe6b6838f5d09d1d594a620ac8ae3c5df20c",
-		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/opencart-2.0.0.0b2.zip"
+		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/2.0.0.0b2.zip"
 	},
 	"2.0.0.0b1": {
 		"checksum": "67f9066f633a24f36c599ff5136a29caeb8ec79a",
-		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/opencart-2.0.0.0b1.zip"
+		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/2.0.0.0b1.zip"
 	},
 	"2.0.0.0a4": {
 		"checksum": "389127ff7264939c7e4461f39d870448173234b5",
-		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/opencart-2.0.0.0a4.zip"
+		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/2.0.0.0a4.zip"
 	},
 	"2.0.0.0a3": {
 		"checksum": "8396b10f4e8b444263b27f52009374e995b871e1",
-		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/opencart-2.0.0.0a3.zip"
+		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/2.0.0.0a3.zip"
 	},
 	"2.0.0.0a2": {
 		"checksum": "1b8fa3e7fd13d165f7548b12e30e0299b883d7b9",
-		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/opencart-2.0.0.0a2.zip"
+		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/2.0.0.0a2.zip"
 	},
 	"2.0.0.0a1": {
 		"checksum": "47baa605a92f732b01e68a80d955a596a9339a8b",
-		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/opencart-2.0.0.0a1.zip"
+		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/2.0.0.0a1.zip"
 	},
 	"2.0.0.0": {
 		"checksum": "51ca756133fe92bee018989d45dab076845a7ea6",
-		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/opencart-2.0.0.0.zip"
+		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/2.0.0.0.zip"
 	},
 	"1.5.6": {
 		"checksum": "84751ccd6b6488633e40820822a2803a9831d4a7",
-		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/opencart-1.5.6.zip"
+		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/1.5.6.zip"
 	},
 	"1.5.6.4": {
 		"checksum": "02b5aaa50885434058be904c1699eb88bcbb99c7",
-		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/opencart-1.5.6.4.zip"
+		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/1.5.6.4.zip"
 	},
 	"1.5.6.3": {
 		"checksum": "ceed490945fe639fb62700204a87282d73533b47",
-		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/opencart-1.5.6.3.zip"
+		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/1.5.6.3.zip"
 	},
 	"1.5.6.2": {
 		"checksum": "8abeb6d1d8e393f2499e1c3a0f8471c4a9ccdb1e",
-		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/opencart-1.5.6.2.zip"
+		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/1.5.6.2.zip"
 	},
 	"1.5.6.1": {
 		"checksum": "ec5037c886a1d0cdc6a1f699366f4ed84ff1361c",
-		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/opencart-1.5.6.1.zip"
+		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/1.5.6.1.zip"
 	},
 	"1.5.5.1": {
 		"checksum": "03f51cdc31af1c6fe666d8fa1a40e9e110ab9875",
-		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/opencart-1.5.5.1.zip"
+		"url": "https:\/\/github.com\/opencart\/opencart\/archive\/1.5.5.1.zip"
 	}
 }
