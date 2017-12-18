@@ -1,6 +1,6 @@
 <?php
 // HTTP
-define('HTTP_SERVER', '*url*admin/');
+define('HTTP_SERVER', '*url*/admin/');
 define('HTTP_CATALOG', '*url*');
 
 // HTTPS
